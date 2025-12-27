@@ -6,7 +6,7 @@ Base library for pygame card games.
 
 Clone repository:
 ```
-git clone git@github.com:toyat522/sheng_ji.git
+git clone git@github.com:toyat522/pygame_cards_base.git
 git submodule update --init --recursive
 ```
 
