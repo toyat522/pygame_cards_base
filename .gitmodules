@@ -1,0 +1,3 @@
+[submodule "src/pygame_cards_base/boardgame_pack"]
+	path = src/pygame_cards_base/boardgame_pack
+	url = git@github.com:toyat522/boardgame_pack.git
